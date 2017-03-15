@@ -1,4 +1,4 @@
-package robin;
+package com.nepoomuk.robin;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

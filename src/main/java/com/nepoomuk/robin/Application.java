@@ -1,4 +1,4 @@
-package robin;
+package com.nepoomuk.robin;
 
 import io.prometheus.client.hotspot.DefaultExports;
 import io.prometheus.client.spring.boot.EnablePrometheusEndpoint;
